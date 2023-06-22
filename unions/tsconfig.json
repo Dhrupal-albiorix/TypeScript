@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "noEmitOnError": false
+    },
+    "exclude": [
+        "node_modules"
+    ],
+  
+}
